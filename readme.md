@@ -1,1 +1,1 @@
-This is to set up a grunt project. It minifies CSS and copies over to a folder.
+This is to set up a grunt project. It minifies CSS and copies over to a folder. This is for faisal
